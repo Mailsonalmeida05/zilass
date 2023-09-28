@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_10);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="1920" height="600"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_10" data-name="Gradiente sem nome 10" x1="960" y1="549" x2="960" y2="39.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#13293d"/>
+      <stop offset=".23" stop-color="#272f3a" stop-opacity=".91"/>
+      <stop offset=".52" stop-color="#614034" stop-opacity=".67"/>
+      <stop offset=".84" stop-color="#c15e29" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#ff7122" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-3">
+    <image width="1600" height="900" transform="translate(-1183 -608.14) scale(2.21)" xlink:href="../Agrupar 1.png"/>
+  </g>
+  <rect class="cls-2" y="13" width="1920" height="587"/>
+</svg>
